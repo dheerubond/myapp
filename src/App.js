@@ -10,7 +10,7 @@ function App() {
           I did it I am a great React developer...
         </p>
         <h1>
-          You are awesome
+          You are awesome...
         </h1>
         <h2>
           Greatest
